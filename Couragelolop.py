@@ -41,7 +41,7 @@ os.environ["JISHAKU_FORCE_PAGINATOR"] = "False"
 os.system('clear')
 p = ","
 prefix = ([", ", ","])
-TOKEN = "MTAxMTMwNzcyODUzMjE1MjM0MA.GtcGUr.ICLemvxVI3CwbYe4-RrFm5DTpksjPrh6kHZMUI"
+TOKEN = "MTAxMTMwNzcyODUzMjE1MjM0MA.GaS8mp.tNuxMjMS28ZgwNGlCFtok3eO_NhAoZCy4jA0Ag"
 
 modsrole = 998879484642074644
 black_list_role = 987687884150693888
